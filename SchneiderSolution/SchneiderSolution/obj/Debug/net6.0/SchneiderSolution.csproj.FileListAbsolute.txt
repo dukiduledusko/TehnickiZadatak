@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\SchneiderSolution\SchneiderSolution\bin\Debug\net6.0\SchneiderSolution.exe
+C:\Users\HP\source\repos\SchneiderSolution\SchneiderSolution\bin\Debug\net6.0\SchneiderSolution.deps.json
+C:\Users\HP\source\repos\SchneiderSolution\SchneiderSolution\bin\Debug\net6.0\SchneiderSolution.runtimeconfig.json
+C:\Users\HP\source\repos\SchneiderSolution\SchneiderSolution\bin\Debug\net6.0\SchneiderSolution.dll
+C:\Users\HP\source\repos\SchneiderSolution\SchneiderSolution\bin\Debug\net6.0\SchneiderSolution.pdb
+C:\Users\HP\source\repos\SchneiderSolution\SchneiderSolution\obj\Debug\net6.0\SchneiderSolution.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\SchneiderSolution\SchneiderSolution\obj\Debug\net6.0\SchneiderSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\SchneiderSolution\SchneiderSolution\obj\Debug\net6.0\SchneiderSolution.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\SchneiderSolution\SchneiderSolution\obj\Debug\net6.0\SchneiderSolution.AssemblyInfo.cs
+C:\Users\HP\source\repos\SchneiderSolution\SchneiderSolution\obj\Debug\net6.0\SchneiderSolution.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SchneiderSolution\SchneiderSolution\obj\Debug\net6.0\SchneiderSolution.dll
+C:\Users\HP\source\repos\SchneiderSolution\SchneiderSolution\obj\Debug\net6.0\refint\SchneiderSolution.dll
+C:\Users\HP\source\repos\SchneiderSolution\SchneiderSolution\obj\Debug\net6.0\SchneiderSolution.pdb
+C:\Users\HP\source\repos\SchneiderSolution\SchneiderSolution\obj\Debug\net6.0\SchneiderSolution.genruntimeconfig.cache
+C:\Users\HP\source\repos\SchneiderSolution\SchneiderSolution\obj\Debug\net6.0\ref\SchneiderSolution.dll

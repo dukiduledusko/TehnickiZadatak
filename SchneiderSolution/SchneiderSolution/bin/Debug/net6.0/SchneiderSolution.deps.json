@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SchneiderSolution/1.0.0": {
+        "runtime": {
+          "SchneiderSolution.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SchneiderSolution/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
